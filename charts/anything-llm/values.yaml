@@ -19,7 +19,7 @@ service:
   # -- Service type.
   type: LoadBalancer
   # -- Service port.
-  port: 80
+  port: 3001
     # -- Optional annotations for the Service.
   # annotations:
     # Example for GCE Ingress on Google Cloud (enables NEG):
